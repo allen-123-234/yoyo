@@ -354,7 +354,7 @@ function isRepeat(code) {
 //  Cloudflare Worker 中轉模式
 //  ★ 部署 Worker 後，把下面的網址換成你自己的
 // ----------------------------------------------------------------
-const WORKER_URL = 'https://YOUR_WORKER.YOUR_NAME.workers.dev';
+const WORKER_URL = 'https://frosty-morning-8dae.linj50647.workers.dev/';
 
 async function workerFetch(targetUrl) {
   try {
